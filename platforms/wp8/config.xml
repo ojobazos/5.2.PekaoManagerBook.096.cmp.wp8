@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="pl.adaptsoft.mobile.PekaoManagerBook" version="1.5.96" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <preference name="phonegap-version" value="cli-6.5.0" />
+    <preference name="phonegap-version" value="cli-6.0.0" />
     <preference name='pgb-builder-version' value='1' />
     <name>Mobilny Podręcznik Menedżera Banku PEKAO SA</name>
     <description>
